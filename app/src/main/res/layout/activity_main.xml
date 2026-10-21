@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Button 2"
-        android:backgroundTint="#2196F3" />
+        android:backgroundTint="#F44336" />
 
 </LinearLayout>
